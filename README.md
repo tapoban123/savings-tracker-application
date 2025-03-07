@@ -46,3 +46,4 @@ An application that keeps track of the user savings and expenses using simple ma
 ## Resources:
 - [Hive with Flutter](https://www.dhiwise.com/post/flutter-hive-tutorial%E2%80%93setting-up-and-using-local-data-in-flutter)
 - [CRUD in Hive with Flutter](https://www.geeksforgeeks.org/flutter-store-data-in-hive-local-database/)
+- [UI Design Inspiration](https://dribbble.com/shots/25147234-Savings-Tracker-App-UI-Kit)
